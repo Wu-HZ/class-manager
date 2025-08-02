@@ -1,4 +1,4 @@
-package com.wuhz.class_manager; // 替换为你的实际包名
+package com.wuhz.class_manager.config; // 替换为你的实际包名
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
